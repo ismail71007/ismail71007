@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismail71007
 - 👀 I’m interested in Machine learning and Development field
-- 🌱 I’m currently learning Machine learning 
+- 🌱 I’m currently learning Machine learning and backend development
 - 💞️ I’m looking to collaborate on machine learning projects 
 - 📫 to reach me ismailbabu007@gmail.com
 <!---
